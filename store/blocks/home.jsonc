@@ -5,8 +5,8 @@
     ],
     "rich-text": {
       "props": {
-        "text": "*Hello, World!*",
-        "textAlignment": "RIGHT"
+        "textAlignment": "RIGHT",
+        "text": "*Hello, World!*"
       }
     }
   }
