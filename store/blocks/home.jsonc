@@ -7,6 +7,7 @@
   "rich-text": {
     "props": {
       "textPosition": "RIGHT",
+      "textAlignment": "CENTER",
       "text": "**Hello, World!**"
     }
   }
