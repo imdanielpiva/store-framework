@@ -28,6 +28,10 @@
       "buy-button"
     ],
     "verticalAlign": "center",
-    "preventVerticalStretch": true
+    "preventVerticalStretch": false,
+    "props": {
+      "verticalAlign": "center",
+      "preventVerticalStretch": false
+    }
   }
 }
