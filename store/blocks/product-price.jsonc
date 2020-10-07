@@ -2,7 +2,9 @@
   "product-price": {
     "props": {
       "showSavings": true,
-      "showListPrice": true
+      "showListPrice": true,
+      "showInstallments": true,
+      "showListPriceRange": true
     }
   }
 }
